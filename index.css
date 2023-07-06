@@ -63,7 +63,7 @@ body, h1, h2, p, ul {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
-  /* Set styles for the movie poster */
+ 
   img#movie-poster {
     width: 200px;
     height: 300px;
