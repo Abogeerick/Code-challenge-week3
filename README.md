@@ -1,5 +1,5 @@
 # FLATDANGO
-This is a website that allows users to view and buy tickets. It contains a list of movie names.It also contains the movie details which include the title, description, poster, showtime,runtime,capacity,sold out tickets, available tickets
+This is a website that allows users to view and buy tickets. It contains a list of movie names.It also contains the movie details which include the title, description, poster, showtime,runtime,capacity,sold out tickets, available tickets.
 
 ## Table of Contents
 * Requirements
