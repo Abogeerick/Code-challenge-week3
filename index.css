@@ -102,7 +102,7 @@ body, h1, h2, p, ul {
     background-color: #555;
   }
   
-  /* Set styles for the tickets sold and available tickets */
+  
   p#tickets-sold, p#movie-available-tickets {
     margin-top: 10px;
     color: #777;
