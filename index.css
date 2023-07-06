@@ -10,7 +10,7 @@ body, h1, h2, p, ul {
     font-family: Arial, sans-serif;
   }
   
-  /* Center the content horizontally and add padding */
+ 
   .container {
     display: flex;
     justify-content: center;
