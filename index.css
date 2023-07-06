@@ -24,7 +24,7 @@ body, h1, h2, p, ul {
     color: #333;
   }
   
-  /* Set styles for the movie list container */
+  
   .movies {
     flex: 1;
     max-width: 300px;
