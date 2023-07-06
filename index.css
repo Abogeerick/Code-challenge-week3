@@ -81,7 +81,7 @@ body, h1, h2, p, ul {
     color: #333;
   }
   
-  /* Set styles for the movie runtime and showtime */
+  
   p#movie-runtime, p#movie-showtime {
     color: #777;
     margin-bottom: 5px;
