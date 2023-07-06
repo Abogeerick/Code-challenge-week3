@@ -50,7 +50,7 @@ body, h1, h2, p, ul {
     background-color: #f9f9f9;
   }
   
-  /* Set styles for the movie details container */
+  
   .movie-details {
     flex: 1;
     display: flex;
